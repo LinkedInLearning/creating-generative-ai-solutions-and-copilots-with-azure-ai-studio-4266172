@@ -1,34 +1,25 @@
 # Creating Generative AI Solutions and Copilots with Azure AI Studio
 This is the repository for the LinkedIn Learning course `Creating Generative AI Solutions and Copilots with Azure AI Studio`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+![lil-thumbnail-url]
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+## Course Description
 
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
+Explore the world of generative AI applications and master the tools and techniques necessary to create robust and innovative solutions using Azure AI Studio—a unified platform for developing, testing, and deploying intelligent AI solutions. Learn how to build production-ready copilot applications that take advantage of cutting-edge large language models (LLMs) and manage the entire lifecycle, from concept and design to deployment and monitoring.
 
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
+## Instructor
 
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
+Rodrigo Díaz Concha
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+Solutions Architect, Microsoft Regional Director, and Microsoft MVP
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/rodrigo-diaz-concha?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/creating-generative-ai-solutions-and-copilots-with-azure-ai-studio
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQEfaXHVF7YsKw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730389623761?e=2147483647&v=beta&t=tpg16Lk3uHrQK_8eh7y3646Dd1MtAVMk-AhIjAnswrs
 
